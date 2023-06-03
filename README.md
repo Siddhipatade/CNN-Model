@@ -11,3 +11,5 @@
 - CNN do not encode the position and orientation of object.
 - Lack of ability to be spatially invariant to the input data.
 - Lots of training data is required.
+
+![image](https://github.com/Siddhipatade/CNN-Model/assets/91780318/618ec57a-b31e-488b-86ff-9375611d7395)
